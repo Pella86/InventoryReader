@@ -1,0 +1,31 @@
+./references\reference_0.png|Dark oak planks
+./references\reference_1.png|Coal
+./references\reference_10.png|Diamonds
+./references\reference_11.png|Diorite
+./references\reference_12.png|Empty
+./references\reference_13.png|Iron ore
+./references\reference_14.png|Dirt
+./references\reference_15.png|Steak
+./references\reference_2.png|Sticks
+./references\reference_3.png|Bucket
+./references\reference_4.png|Clock
+./references\reference_5.png|Cobblestone
+./references\reference_6.png|Redstone Dust
+./references\reference_7.png|Wooden Pickaxe
+./references\reference_8.png|Iron Axe
+./references\reference_9.png|Granite
+./references/reference_16.png|Diamond Pickaxe
+./references/reference_17.png|Torch
+./references/reference_18.png|Iron Sword
+./references/reference_19.png|Iron Shovel
+./references/reference_20.png|Bucket of water
+./references/reference_21.png|Oak Sign
+./references/reference_22.png|Lapislazuli
+./references/reference_23.png|Bread
+./references/reference_24.png|Clock
+./references/reference_25.png|Adnesite
+./references/reference_26.png|Clock
+./references/reference_27.png|Clock
+./references/reference_28.png|Gravel
+./references/reference_29.png|Flint
+./references/reference_30.png|Gold Ore
